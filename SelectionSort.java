@@ -1,5 +1,3 @@
-package test;
-
 public class SelectionSort {
 	public static void main(String[] args) {
 		int[] vetor =new int[10];
